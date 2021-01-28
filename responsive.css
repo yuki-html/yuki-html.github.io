@@ -1,0 +1,204 @@
+@media (min-width: 744px){
+	.top-wrapper{
+		height: 636px;		
+		padding: 150px 0 0 50px;
+	}
+	.top-message{
+		max-width: 556px;
+	}
+	.top-message h1{
+		font-size: 46px;
+	}
+	.top-message input{
+		width: 400px;
+	}
+
+	.mail-form{
+		display: none;
+	}
+
+
+	.job{
+		float: left;
+		width: 33.3333%;
+	}
+	.best-job h2{
+		font-size: 32px;
+	}
+
+
+
+
+	.two-box-mes{
+		/*width: 58.3333%;	
+		float: right;*/
+		height: 500px;
+	}
+	.box-mes{
+		padding-top: 150px;
+	}
+	.box-mes-cont h2{
+		font-size: 32px;
+		line-height: 36px;
+	}
+	.box-mes-cont p{
+		font-size: 18px;
+		line-height: 26px;
+	}
+	.two-box-mes-2{
+		height: 500px;	
+		color: white;
+	}
+	.two-box-img{
+		width: 41.6667%;
+		float: left;
+		padding-right: 8px;
+		padding-left: 8px;
+		height: 500px;
+	}
+	.pad-box{
+		width: 58.3333%;	
+		float: right;
+		padding-right: 8px;
+		padding-left: 8px;
+	}
+	.pad-box-2{
+		float: left;
+		width: 58.333%;
+		padding-left: 8px;
+		padding-right: 10px;
+	}
+
+
+
+	.green-boxes{
+		height: 550px;
+	}
+	.green-box-mes-2 h2{
+		font-size: 32px;
+		line-height: 36px;
+	}
+	.green-box-mes-2 p{
+		font-size: 18px;
+		line-height: 26px;
+	}
+	.green-box-mes a{
+		font-size: 16px;
+	}
+
+
+	.think{
+		width: 50%;
+		float: left;
+	}
+	.think-cont{
+		width: 80%;
+		margin: auto;
+	}
+	.think-img{
+		height: 500px;
+	}
+	.think-mes-box{
+		height: 500px;
+	}
+	.think-mes-2 h3{
+		font-size: 18px;
+		line-height: 26px;
+	}
+	.think-mes-2{
+		margin-top: 120px;
+	}
+
+
+	.change-box-cont h2{
+		font-size: 32px;
+		line-height: 36px;
+		padding-bottom: 6px;
+	}
+	.change-jobs{
+		margin-top: 64px;
+	}
+
+	.foot-cont{
+		padding-right: 40px;
+		padding-left: 40px;
+	}
+	.foot ul{
+		display: flex;
+		flex-wrap: wrap;
+		margin-right: -12px;
+		margin-left: -12px;
+	}
+	.foot li{
+		flex-basis: 33.333%;
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+	.last-conts{
+		text-align: center;
+	}
+	.last-cont-1{
+		justify-content: center;
+	}
+	.last-contt-1-3{
+		display: block;
+	}
+
+}
+
+@media (min-width: 1128px){
+	.pull-down{
+		display: none;
+	}
+
+	.top-wrapper{
+		height: 860px;
+		padding: 270px 0 0 180px; 
+	}
+
+
+	.box-mes{
+		width: 80%;
+	}
+
+
+	.green-boxes{
+		height: 310px;
+	}
+	.green-box{
+		width: 50%;
+		float: left;
+	}
+	.green-border{
+		display: none;
+	}
+
+
+	.think-mes-2 h3{
+		font-size: 20px;
+		line-height: 2;
+	}
+
+	.foots-cont{
+		display: flex;
+	}
+	.foot{
+		flex-basis: 25%;
+	}
+	.foot ul{
+		display: block;
+	}
+	.foot li{
+		margin-top: 16px;
+	}
+	.foot-cont{
+		padding-right: 80px;
+		padding-left: 80px;
+	}
+	.last-cont-1{
+		float: right;
+	}
+	.last-cont-2{
+		text-align: left;
+	}
+}
