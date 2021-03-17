@@ -320,6 +320,7 @@
 	}
 	.foot-cont{
 		border: none;
+		flex-basis: 25%;
 	}
 	.foot-cont ul{
 		display: block;
