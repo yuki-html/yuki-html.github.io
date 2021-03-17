@@ -63,6 +63,7 @@ body{
 	line-height: 36px;
 	max-width: 790px;
 	margin-bottom: 16px;
+	padding-right: 0;
 }
 .top-mes{
 	line-height: 20px;
